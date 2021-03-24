@@ -8,14 +8,13 @@ In this repo, we  propose a panoptic segmentation model based on **embedding int
 
 Our motivation comes from the figure below.
 
-<div align=center><img width="900"  src="EINet-github/fig1-iccv_v3.png"/>
+<div align=center><img width="900"  src="EINet-github/fig1-iccv_v3.png"/>.
 
 As a result, Embedding-Interaction based Panoptic Segmentation (EINet) achieves superior results on Cityscapes and COCO datasets. The results clearly show the feasibility of joint optimization for panoptic segmentation through designed embedding interaction mechanism without using too many intermediate results.
 
 The whole training propcess of EINet is as follows:
 
 <div align=center><img width="700"  src="EINet-github/iccv-fig2_v4.png"/>. 
-
 
 
 And the core of Interaction Mechanism is as follows:
