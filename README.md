@@ -29,7 +29,7 @@ And the details of Encoder and Decoders of EINet is as follows:
 
 ### A.1. Visualization of Panoptic Segmentation on COCO with ResNet50.
 
-<div align=center><img width="700"  src="EINet-github/LaTeX/S_fig0.png"/></div>. 
+<div align=center><img width="700"  src="EINet-github/S_fig0.png"/></div>. 
 
 Visualization of panoptic segmentation on COCO with ResNet50. Left to right: input image, results by [Detectron2](), results by [PanopticDeeplab](), ours results through EINet.
 
