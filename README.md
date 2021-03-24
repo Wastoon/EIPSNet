@@ -1,7 +1,3 @@
----
-EINet-githubtypora-copy-images-to: ../Desktop/EINet-github
----
-
 # Embedding-Interaction based Panoptic Segmentation
 
 ##### ![](https://img.shields.io/badge/License-MIT-yellow) ![](https://img.shields.io/badge/Detectron2-Detectron2-blue)
